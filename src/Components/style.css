@@ -13,7 +13,8 @@ html {
 
 .main-div {
   min-height: 100vh;
-  background: linear-gradient(to bottom, #060822,#9198e5);
+  /* background: linear-gradient(to bottom, #060822,#9198e5); */
+  background-image: url("D:\Ankur\Documents\Web Development\ReactJS\react_app\Todo_app\public\image\doodad (2).png");
   display: flex;
   justify-content: center;
   /* align-items: center; */
